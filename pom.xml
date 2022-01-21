@@ -20,7 +20,7 @@
         <spring.version>4.1.6.RELEASE</spring.version>
         <spring.security.version>4.0.1.RELEASE</spring.security.version>
         <hibernate.version>4.3.9.Final</hibernate.version>
-        <h2.version>1.4.187</h2.version>
+        <h2.version>2.1.210</h2.version>
         <maven.test.skip>false</maven.test.skip>
         <context.path>${project.artifactId}</context.path>
         <log4j.version>2.3</log4j.version> 
